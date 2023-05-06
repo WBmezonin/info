@@ -10,7 +10,7 @@
 - [Памятка раскладки 2 блока]()
 
 ## Для стажеров
-- [Обучение мезонин](https://drive.google.com/drive/u/1/folders/1BejEbT1W4_8pax-CJ7NbxVXHdoxOkeZT)
+- [Обучение мезонин](https://docs.google.com/document/d/1y5J4aiS9U8LVfOffGxKFbLRyXH9gxdp_/edit)
 - [Исправляем мезонин](https://docs.google.com/spreadsheets/d/1iqlrTfTFEN5ogbGRSuoY77swHT_t11oyNnzKIxWyQ-M/edit#gid=1701620620)
 
 ## Выгрузки 
