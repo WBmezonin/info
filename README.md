@@ -15,3 +15,6 @@
 
 ## Выгрузки 
 - [ШК не попавшие в выгрузки](https://docs.google.com/spreadsheets/d/1o1X93CyFL4ccavMGjRgPvn3-BbIsHbJo2qNQs9lJr88/edit#gid=0)
+
+## Разное 
+- [Упаковка товара](https://drive.google.com/drive/folders/1HX5-y7Y0AMWethH79v6TbkfwmnWTcgpk)
