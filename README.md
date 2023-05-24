@@ -5,7 +5,8 @@
 ## Отчеты
 - [Отчет старшие](https://docs.google.com/document/d/1mBRdYw7KQyFh0L5HehqecRuVi-Wap04Z8bTsadTd92Y/edit) + динамика заполенности склаа, заполненность склада, инвент микс, фото левый мез
 - [Очет администрация](https://docs.google.com/document/d/1LHcw8ryt6pC5qGCN0RbisBASHv81qEg12gNYJ5gu8jI/edit) + графики потерь
-
+- [Очет полки](https://docs.google.com/document/d/1aMBoQssfSWs8QBCaVq_3A0ll4FuPj0EqqJGToL999z0/edit) + фото до и после
+ 
 ## График уборки
 - [Удаляем ранний уход](https://docs.google.com/spreadsheets/d/1BacGweOpjMPgeEOvlczdUVXi63ZjGVhsYy2cEQeaK-w/edit#gid=0)
 
