@@ -1,6 +1,7 @@
 ## Таблицы для работы с отделом инвентаризации
 - [Закрыто на инвент](https://docs.google.com/spreadsheets/d/1-MCwlqfsledYETKTjWRC4gVjaUUOKRolZGXU_DtfaaA/edit)
 - [Инвент отчет](https://docs.google.com/spreadsheets/d/1EXTWV-mh89ySD2lRljQV0gT7STugjFuK5k2mCz3RzyY/edit)
+- [Поиск по заданию](https://docs.google.com/spreadsheets/d/1g-reefO5sTadXAE_DlRAcD_hlKh-PWyfl16OOnVEiK4/edit#gid=0)
 
 ## Отчеты
 - [Отчет старшие](https://docs.google.com/document/d/1mBRdYw7KQyFh0L5HehqecRuVi-Wap04Z8bTsadTd92Y/edit) + динамика заполенности склаа, заполненность склада, инвент микс, фото левый мез
