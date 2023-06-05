@@ -10,7 +10,7 @@
 
 ## Отчеты ночь
 
-- [Потери сборки и разбор txt](https://drive.google.com/drive/folders/1aCNpnidW6sedsxiyxUT6vOjtB8vW91Dg)
+- [Потери сборки и разбор txt](https://drive.google.com/file/d/1sAbQKijG4VOTjuJ1DODpH8Nr2iqkJ0s2/view)
 - [Потери cборки и Разбор xlsx](https://docs.google.com/spreadsheets/d/1w81-7n9LJxvEv6VTBFhJC-bfthb-NBjYcYNl_nvn7L8/edit#gid=0)
  
 ## График уборки
