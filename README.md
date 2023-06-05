@@ -4,9 +4,9 @@
 - [Поиск по заданию](https://docs.google.com/spreadsheets/d/1g-reefO5sTadXAE_DlRAcD_hlKh-PWyfl16OOnVEiK4/edit#gid=0)
 
 ## Отчеты
-- [Отчет старшие](https://docs.google.com/document/d/1LHcw8ryt6pC5qGCN0RbisBASHv81qEg12gNYJ5gu8jI/edit) + динамика заполенности склаа, заполненность склада, инвент микс, фото левый мез
-- [Очет администрация](https://docs.google.com/document/d/1mBRdYw7KQyFh0L5HehqecRuVi-Wap04Z8bTsadTd92Y/edit) + графики потерь
-- [Очет полки](https://docs.google.com/document/d/1aMBoQssfSWs8QBCaVq_3A0ll4FuPj0EqqJGToL999z0/edit) + фото до и после
+- [Отчет старшие](https://drive.google.com/file/d/1shrOIiEcwGXTDx-fcZYhsB_-9xmEzQQ2/view) + динамика заполенности склаа, заполненность склада, инвент микс, фото левый мез
+- [Очет администрация](https://drive.google.com/file/d/1cXy0MWbi2yxkFq8ZRroO2sdCaZ9t09_H/view) + графики потерь
+- [Очет полки](https://drive.google.com/file/d/1xCVdSajmP3pJPenpsbLNnWCN7KQ4uXrG/view) + фото до и после
 
 ## Отчеты ночь
 
